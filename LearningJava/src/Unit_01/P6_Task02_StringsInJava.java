@@ -14,7 +14,7 @@ class StringInJava
     void StringDefinition()
     {
         String s = "Hello There";
-        String s1 = new String("My name is Tushar Sharma");
+        String s1 = new String("My name is Tanuj Rawat");
 
         System.out.println(s);
 
